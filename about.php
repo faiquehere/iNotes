@@ -1,0 +1,13 @@
+<?php
+session_start();
+require('header.php');
+
+?>
+
+<div class="container">
+    <h1>About us</h1>
+<p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos recusandae expedita, ut id inventore enim consectetur, cupiditate animi ex commodi fuga eum provident accusamus optio accusantium, reiciendis aperiam. Nesciunt ipsam rem atque ut, non iste mollitia optio fugit necessitatibus, pariatur ullam dolorum est quasi tempore quod ipsum corrupti enim ex et in reiciendis modi aspernatur. Exercitationem hic cupiditate eius ea dolores fuga fugiat officia veritatis nesciunt. Ab voluptas quis quasi reprehenderit aliquam fugiat dolores eveniet! Placeat cumque natus reiciendis laborum earum debitis iusto, dignissimos provident accusantium accusamus. Quas numquam doloremque ipsa ipsum, repellat eveniet blanditiis incidunt illo deserunt corporis iste nulla unde reiciendis? Saepe molestiae possimus repudiandae hic! Veritatis esse itaque odit, vel quasi minima sint. Similique dolore eius nostrum soluta labore inventore aliquid sapiente consequuntur in non vel deleniti quae corrupti, maxime nemo quod voluptas iusto. Optio nulla facilis perspiciatis reiciendis nemo, quasi esse dignissimos excepturi quis amet cupiditate. Nostrum ad repellendus ducimus voluptate, reiciendis voluptates consequatur eos optio sint libero, distinctio impedit accusamus sed officia recusandae facere quod maiores labore molestiae molestias? Eveniet sed rerum sit soluta eaque, ipsam accusantium blanditiis iure nostrum debitis nemo at quas possimus nam doloribus! Alias, dolore ad eos impedit est, deleniti cum repellendus inventore nostrum sint, harum similique? Porro rem tempore non esse, fuga error, tenetur, accusantium eligendi a eum deleniti excepturi dignissimos dolorum enim delectus quisquam ratione. Necessitatibus eaque voluptatum reprehenderit culpa repudiandae architecto repellat nobis officiis quas quia quam, consequatur nam tempora maxime neque aut saepe quo voluptates debitis voluptas doloribus reiciendis. Temporibus illo illum dignissimos veritatis nihil veniam impedit nostrum eius nobis amet, odio dolores voluptatem accusamus earum quidem recusandae laboriosam debitis, doloremque culpa in a? Officia impedit ducimus commodi veritatis laborum tenetur velit! Sequi, qui non, numquam doloribus odit suscipit voluptates atque saepe quo voluptatem quam mollitia consequatur sint eveniet similique delectus laudantium nam vero culpa velit est fuga  </p>
+</div>
+<?php
+require('footer.php');
+?>
